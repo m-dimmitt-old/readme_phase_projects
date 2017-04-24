@@ -1,0 +1,18 @@
+[submodule "personalfixAcrossGitAgenda"]
+	path = personalfixAcrossGitAgenda
+	url = https://github.com/LetsFix/personalfixAcrossGitAgenda.git
+[submodule "fixingFrameworks"]
+	path = fixingFrameworks
+	url = https://github.com/LetsFix/fixingFrameworks.git
+[submodule "fixingGithub"]
+	path = fixingGithub
+	url = https://github.com/LetsFix/fixingGithub.git
+[submodule "fixingDesktops"]
+	path = fixingDesktops
+	url = https://github.com/LetsFix/fixingDesktops.git
+[submodule "1_40_Traffic"]
+	path = 1_40_Traffic
+	url = https://github.com/otherFutureProjects/1_40_Traffic.git
+[submodule "_runtime_Debug_All"]
+	path = _runtime_Debug_All
+	url = https://github.com/otherFutureProjects/_runtime_Debug_All.git
